@@ -1,4 +1,3 @@
-# morning-routine
 # Ashton's Absurd Morning
 
 A silly, cartoonish click/touch-based game inspired by Ashton Hall's viral fitness routine. Built with Phaser.js and hosted on GitHub Pages.
@@ -16,4 +15,4 @@ A silly, cartoonish click/touch-based game inspired by Ashton Hall's viral fitne
 ## Play Online
 [Play here](https://yourusername.github.io/ashtons-absurd-morning/)
 
-Built with ❤️ by GROK AI.
+Built with ❤️ by [Your Name].

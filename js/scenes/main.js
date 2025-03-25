@@ -4,19 +4,6 @@ class MainScene extends Phaser.Scene {
     }
 
     create() {
-        let bananaPeel = this.add.image(x, y, 'banana_peel');
-        bananaPeel.setDisplaySize(100, bananaPeel.height * (100 / bananaPeel.width)); // Adjust size while maintaining aspect ratio
-        bananaPeel.setOrigin(0.5, 0.5);
-        bananaPeel.setId('banana-peel');
-    
-        let iceBucket = this.add.image(x, y, 'ice_bucket');
-        iceBucket.setDisplaySize(100, iceBucket.height * (100 / iceBucket.width)); // Adjust size while maintaining aspect ratio
-        iceBucket.setOrigin(0.5, 0.5);
-        iceBucket.setId('ice-bucket');
-
-
-
-
         this.add.image(400, 300, 'background');
         this.ashton = this.physics.add.sprite(400, 500, 'ashton').setInteractive();
         this.iceBucket = this.physics.add.sprite(200, 300, 'ice_bucket').setInteractive();
