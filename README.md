@@ -13,6 +13,6 @@ A silly, cartoonish click/touch-based game inspired by Ashton Hall's viral fitne
 3. (Optional) Replace placeholder assets in `assets/` with your own.
 
 ## Play Online
-[Play here](https://yourusername.github.io/ashtons-absurd-morning/)
+[Play here](https://deepakrameshkumar.github.io/morning-routine/)
 
-Built with ❤️ by [Your Name].
+Built with ❤️ by GROK AI.
