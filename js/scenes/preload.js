@@ -16,3 +16,5 @@ class PreloadScene extends Phaser.Scene {
         this.scene.start('MainScene');
     }
 }
+
+// export default PreloadScene;
