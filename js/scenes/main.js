@@ -28,6 +28,7 @@ class MainScene extends Phaser.Scene {
         });
 
         this.bananaPeel.on('pointerdown', () => {
+            this.sound.play('boing');
             this.score += 15;
             this.bananaPeel.rotation += 0.5;
         });
